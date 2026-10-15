@@ -1,8 +1,8 @@
-using System;
-using System.Collections.Generic;
+    using System;
+    using System.Collections.Generic;
 
-namespace SistemRumahSakit
-{
+    namespace SistemRumahSakit
+    {
     public class Orang
     {
         public string Nama { get; set; }
